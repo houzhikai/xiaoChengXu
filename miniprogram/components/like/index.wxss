@@ -1,0 +1,23 @@
+/* components/like/index.wxss */
+
+.wrapper{
+	display: inline-flex;
+	flex-direction: row;
+	padding: 10rpx;
+	max-width:  90rpx;
+	margin-right:  20rpx;
+}
+
+.wrapper image{
+ width:32rpx;
+ height:32rpx;
+}
+.wrapper text{
+	font-size:24rpx;
+	line-height: 24rpx;
+	color: #bbbbbb;
+	padding: 10rpx 0;
+	position: relative;
+	bottom: 18rpx;
+	left: 10rpx;
+}

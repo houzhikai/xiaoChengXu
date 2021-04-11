@@ -1,0 +1,6 @@
+<view bind:tap="onTap" class="container tag-class">
+    <text>{{text}}</text>
+    <!-- //插槽  slot-->
+    <slot name="after"></slot>      
+</view>
+<!-- container 是普通样式  tad-class 是外部样式 但是谁覆盖谁的样式并不会因为先后顺序而决定-->

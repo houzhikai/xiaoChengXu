@@ -1,0 +1,36 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "book-detail",
+                    "pathName": "pages/book-detail/book-detail",
+                    "query": "bid=7",
+                    "scene": null
+                },
+                {
+                    "name": "book/book",
+                    "pathName": "pages/book/book",
+                    "query": "bid=7",
+                    "scene": null
+                },
+                {
+                    "name": "my/my",
+                    "pathName": "pages/my/my",
+                    "query": "fav=favior",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

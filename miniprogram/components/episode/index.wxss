@@ -1,0 +1,37 @@
+.container {
+	height: 60rpx;
+	display: inline-flex;
+	flex-direction: row;
+}
+.epsolide-container {
+	display: flex;
+	flex-direction: row;
+	align-items:  baseline;    	/* 底部对齐*/
+}
+.epsolide-plain {
+	font-size:  32rpx;
+}
+.epsolide-index {
+	font-size:  60rpx;
+	line-height:  60rpx;
+	font-weight: 800;
+	margin-right:  14rpx;
+}
+.epsolide-line {
+	height: 44rpx;
+	margin-right:  14rpx;
+	margin-bottom: 2rpx;
+	border-left: 1px solid black;
+}
+.epsolide-date {
+	height: 60rpx;
+	display: flex;
+	flex-direction:  column;
+}
+.epsolide-month {
+	font-size:  24rpx;
+	line-height:  24rpx;
+}
+.container-yaer {
+	font-size:  20rpx;
+}

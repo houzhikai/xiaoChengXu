@@ -1,0 +1,11 @@
+/* 在代码外面 系统会自动加上一个 page 标签 */
+page {
+  font-family:  PingFangSC-Thin;  
+  font-size:  32rpx;
+}
+
+
+
+
+
+
